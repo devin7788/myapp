@@ -10,7 +10,7 @@
 
 #include <pthread.h>
 
-#include "ts_queue.h"
+#include "../ts_queue.h"
 
 #define SERVER_PORT 12345
 #define BACKLOG 10
